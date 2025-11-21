@@ -13,7 +13,7 @@ let examState = {
 // Load questions from JSON file
 async function loadQuestions() {
     try {
-        const response = await fetch('questions.json');
+        const response = await fetch("questions.json");
         const data = await response.json();
         examState.allQuestions = data.questions || data; // Store all questions
         selectRandomQuestions(); // Select 100 random questions
@@ -374,5 +374,6 @@ document.getElementById('close-answers-btn').addEventListener('click', hideAnswe
 
 // Load questions when page loads
 loadQuestions();
+
 
 

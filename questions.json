@@ -1,0 +1,1698 @@
+{
+  "questions": [
+    {
+      "question": "Normal adult fasting blood glucose (WHO cutoff) is:",
+      "options": [
+        "≥126 mg/dL",
+        "≥110 mg/dL",
+        "<100 mg/dL",
+        "100–125 mg/dL"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fasting <100 mg/dL is normal; 100–125 is impaired fasting glucose."
+    },
+    {
+      "question": "First-line drug for uncomplicated malaria (Plasmodium falciparum) is:",
+      "options": [
+        "Chloroquine",
+        "Artemisinin-based combination therapy",
+        "Doxycycline",
+        "Quinine alone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ACT is WHO-recommended first-line for P. falciparum."
+    },
+    {
+      "question": "Immediate management of anaphylaxis:",
+      "options": [
+        "IV hydrocortisone",
+        "IM epinephrine",
+        "IV atropine",
+        "Oral antihistamine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "IM epinephrine is the first-line emergency treatment."
+    },
+    {
+      "question": "ORS Plan C is used for:",
+      "options": [
+        "Mild dehydration",
+        "No dehydration",
+        "Severe dehydration",
+        "Prevention only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Plan C is for severe dehydration requiring IV fluid."
+    },
+    {
+      "question": "Most common cause of community-acquired pneumonia organism:",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "Streptococcus pneumoniae",
+        "Staphylococcus aureus",
+        "Klebsiella pneumoniae"
+      ],
+      "correctAnswer": 1,
+      "explanation": "S. pneumoniae is the commonest cause."
+    },
+    {
+      "question": "Definition of fever in adults (oral):",
+      "options": [
+        "≥38°C",
+        "≥37°C",
+        "≥39°C",
+        "≥36.5°C"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fever is commonly defined as ≥38°C (100.4°F)."
+    },
+    {
+      "question": "Drug of choice for status epilepticus initial bolus:",
+      "options": [
+        "Phenytoin IV",
+        "Diazepam IV/IM",
+        "Carbamazepine oral",
+        "Valproate oral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "IV/IM benzodiazepine (e.g., diazepam, lorazepam) is first-line."
+    },
+    {
+      "question": "Most sensitive test for pulmonary TB:",
+      "options": [
+        "Sputum AFB smear",
+        "Chest X-ray",
+        "GeneXpert MTB/RIF",
+        "Tuberculin skin test"
+      ],
+      "correctAnswer": 2,
+      "explanation": "GeneXpert has high sensitivity and detects rifampicin resistance."
+    },
+    {
+      "question": "Correct compression-to-ventilation ratio for adult single rescuer CPR:",
+      "options": [
+        "15:2",
+        "30:2",
+        "5:1",
+        "50:5"
+      ],
+      "correctAnswer": 1,
+      "explanation": "30 compressions : 2 breaths per current BLS."
+    },
+    {
+      "question": "Drug of choice for acute asthma bronchospasm:",
+      "options": [
+        "Inhaled salbutamol (SABA)",
+        "Oral theophylline",
+        "Inhaled steroid",
+        "IV magnesium sulfate first-line"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Short-acting β2 agonist (salbutamol) is immediate reliever."
+    },
+    {
+      "question": "Most common cause of chronic liver disease in Nepal:",
+      "options": [
+        "Hepatitis A",
+        "Hepatitis B",
+        "Hepatitis C",
+        "Alcoholic liver disease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hepatitis B is a major cause."
+    },
+    {
+      "question": "Normal adult hemoglobin (male):",
+      "options": [
+        "8–10 g/dL",
+        "13–17 g/dL",
+        "10–12 g/dL",
+        "18–20 g/dL"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Normal male Hb ~13–17 g/dL."
+    },
+    {
+      "question": "Management of postpartum hemorrhage first-line:",
+      "options": [
+        "Uterine massage and oxytocin",
+        "Hysterectomy immediately",
+        "Blood transfuse only",
+        "IV antibiotics"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Uterine massage and oxytocin are initial measures."
+    },
+    {
+      "question": "Most common intestinal parasite worldwide:",
+      "options": [
+        "Entamoeba histolytica",
+        "Ascaris lumbricoides",
+        "Giardia lamblia",
+        "Hookworm"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ascaris is the most common helminth globally."
+    },
+    {
+      "question": "In IMNCI, chest indrawing in a child indicates:",
+      "options": [
+        "No pneumonia",
+        "Severe pneumonia",
+        "Mild cough",
+        "Asthma only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lower chest indrawing is a sign of severe pneumonia in children."
+    },
+    {
+      "question": "Drug of choice for uncomplicated urinary tract infection (adult female) empirically:",
+      "options": [
+        "Nitrofurantoin",
+        "Vancomycin",
+        "Amikacin",
+        "Erythromycin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nitrofurantoin is commonly used for uncomplicated lower UTIs."
+    },
+    {
+      "question": "Most likely cause of sudden severe chest pain radiating to back:",
+      "options": [
+        "Pleural effusion",
+        "Aortic dissection",
+        "Pneumonia",
+        "GERD"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tearing chest pain to back suggests aortic dissection."
+    },
+    {
+      "question": "Initial management for suspected organophosphate poisoning:",
+      "options": [
+        "Naloxone",
+        "Atropine",
+        "Epinephrine",
+        "Flumazenil"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Atropine is key; pralidoxime also used."
+    },
+    {
+      "question": "Normal respiratory rate for an adult at rest:",
+      "options": [
+        "12–20 breaths/min",
+        "5–10",
+        "25–30",
+        "30–40"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Normal adult RR is 12–20/min."
+    },
+    {
+      "question": "Appropriate immediate action for a burn covering 20% body surface area:",
+      "options": [
+        "Apply ice",
+        "Cool with running water and refer",
+        "Leave uncovered",
+        "Apply butter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cool burns with running water, stop burning process, refer for fluids."
+    },
+    {
+      "question": "Most common cause of acute diarrhea in children in Nepal:",
+      "options": [
+        "Rotavirus",
+        "E. coli",
+        "Salmonella",
+        "Shigella"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rotavirus is the leading cause of severe diarrhea in children."
+    },
+    {
+      "question": "Preferred treatment for mild dehydration in children:",
+      "options": [
+        "IV fluids",
+        "Oral rehydration solution",
+        "Antibiotics",
+        "No treatment needed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ORS is recommended for mild dehydration."
+    },
+    {
+      "question": "Most common cause of hyperthyroidism:",
+      "options": [
+        "Graves disease",
+        "Toxic multinodular goiter",
+        "Thyroiditis",
+        "Excess iodine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Graves disease is the most common cause of hyperthyroidism worldwide."
+    },
+    {
+      "question": "Initial drug for type 2 diabetes mellitus:",
+      "options": [
+        "Insulin",
+        "Metformin",
+        "Sulfonylureas",
+        "Pioglitazone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Metformin is first-line therapy unless contraindicated."
+    },
+    {
+      "question": "Preferred imaging for suspected acute appendicitis in adults:",
+      "options": [
+        "Abdominal X-ray",
+        "Ultrasound",
+        "CT abdomen",
+        "MRI abdomen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CT scan is more sensitive and specific in adults."
+    },
+    {
+      "question": "First-line management of tension pneumothorax:",
+      "options": [
+        "Needle decompression",
+        "Chest physiotherapy",
+        "Oxygen only",
+        "Intubation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Immediate needle decompression is lifesaving."
+    },
+    {
+      "question": "Most common organism causing urinary tract infection in adult females:",
+      "options": [
+        "E. coli",
+        "Klebsiella",
+        "Proteus",
+        "Enterococcus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "E. coli is the predominant pathogen in uncomplicated UTIs."
+    },
+    {
+      "question": "Recommended first-line antihypertensive in pregnancy:",
+      "options": [
+        "ACE inhibitors",
+        "Methyldopa",
+        "Atenolol",
+        "Lisinopril"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Methyldopa is considered safe in pregnancy."
+    },
+    {
+      "question": "Preferred treatment for mild iron deficiency anemia:",
+      "options": [
+        "Blood transfusion",
+        "Oral iron supplementation",
+        "IV iron",
+        "No treatment needed"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oral iron is first-line for mild iron deficiency anemia."
+    },
+    {
+      "question": "Most common cause of hypothyroidism worldwide:",
+      "options": [
+        "Iodine deficiency",
+        "Hashimoto thyroiditis",
+        "Surgical thyroidectomy",
+        "Drug-induced"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Iodine deficiency is the most common worldwide, Hashimoto's is most common in iodine-sufficient areas."
+    },
+    {
+      "question": "First-line treatment for acute otitis media in children:",
+      "options": [
+        "Amoxicillin",
+        "Ceftriaxone",
+        "Azithromycin",
+        "No antibiotics"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Amoxicillin is the first-line antibiotic for uncomplicated acute otitis media."
+    },
+    {
+      "question": "Most common cause of sudden sensorineural hearing loss:",
+      "options": [
+        "Viral infection",
+        "Bacterial infection",
+        "Trauma",
+        "Meniere disease"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Viral infection is the leading cause of sudden sensorineural hearing loss."
+    },
+    {
+      "question": "Drug of choice for acute gout attack:",
+      "options": [
+        "Allopurinol",
+        "Colchicine",
+        "Febuxostat",
+        "Probenecid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Colchicine is used to treat acute gout attacks."
+    },
+    {
+      "question": "Most common primary brain tumor in adults:",
+      "options": [
+        "Glioblastoma multiforme",
+        "Meningioma",
+        "Astrocytoma",
+        "Pituitary adenoma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Glioblastoma is the most common malignant primary brain tumor in adults."
+    },
+    {
+      "question": "Preferred imaging for suspected stroke within 4.5 hours:",
+      "options": [
+        "CT scan",
+        "MRI",
+        "Ultrasound",
+        "X-ray"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Non-contrast CT is used to rule out hemorrhage before thrombolysis."
+    },
+    {
+      "question": "First-line treatment for community-acquired pneumonia in adults:",
+      "options": [
+        "Amoxicillin",
+        "Azithromycin",
+        "Ceftriaxone",
+        "Vancomycin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Amoxicillin is recommended for outpatient treatment of uncomplicated CAP."
+    },
+    {
+      "question": "Most common cause of neonatal jaundice:",
+      "options": [
+        "Breast milk jaundice",
+        "Hemolytic disease",
+        "Sepsis",
+        "Hypothyroidism"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Physiologic jaundice and breast milk jaundice are common in neonates."
+    },
+    {
+      "question": "Preferred antibiotic for syphilis in pregnancy:",
+      "options": [
+        "Doxycycline",
+        "Azithromycin",
+        "Benzathine penicillin",
+        "Ceftriaxone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Benzathine penicillin is the treatment of choice in pregnancy."
+    },
+    {
+      "question": "Most common cause of community-acquired bacterial meningitis in adults:",
+      "options": [
+        "Neisseria meningitidis",
+        "Streptococcus pneumoniae",
+        "Haemophilus influenzae",
+        "Listeria monocytogenes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "S. pneumoniae is the most frequent cause in adults."
+    },
+    {
+      "question": "Preferred first-line antihypertensive for black patients without CKD:",
+      "options": [
+        "ACE inhibitors",
+        "Calcium channel blockers",
+        "Beta-blockers",
+        "Thiazide diuretics"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CCBs or thiazide diuretics are first-line in black patients."
+    },
+    {
+      "question": "First-line treatment for mild persistent asthma:",
+      "options": [
+        "Short-acting beta agonist PRN",
+        "Low-dose inhaled corticosteroid",
+        "Leukotriene antagonist",
+        "Theophylline"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Low-dose inhaled corticosteroids are recommended for mild persistent asthma."
+    },
+    {
+      "question": "Most common cause of community-acquired pneumonia in children:",
+      "options": [
+        "Streptococcus pneumoniae",
+        "Haemophilus influenzae",
+        "Mycoplasma pneumoniae",
+        "Staphylococcus aureus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "S. pneumoniae is the leading cause in children."
+    },
+    {
+      "question": "Preferred first-line treatment for uncomplicated UTI in adult females:",
+      "options": [
+        "Nitrofurantoin",
+        "Amoxicillin",
+        "Ceftriaxone",
+        "Trimethoprim-sulfamethoxazole"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Nitrofurantoin is commonly used for uncomplicated UTIs."
+    },
+    {
+      "question": "First-line therapy for newly diagnosed type 2 diabetes mellitus:",
+      "options": [
+        "Metformin",
+        "Insulin",
+        "Sulfonylurea",
+        "Pioglitazone"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Metformin is the recommended first-line drug."
+    },
+    {
+      "question": "Most common cause of hyperthyroidism in adults:",
+      "options": [
+        "Graves disease",
+        "Toxic multinodular goiter",
+        "Subacute thyroiditis",
+        "Excess iodine intake"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Graves disease is the most common cause globally."
+    },
+    {
+      "question": "Preferred antibiotic for community-acquired pneumonia in adults:",
+      "options": [
+        "Amoxicillin",
+        "Azithromycin",
+        "Ceftriaxone",
+        "Vancomycin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Amoxicillin is first-line for outpatient CAP treatment."
+    },
+    {
+      "question": "Most common cause of neonatal sepsis in Nepal:",
+      "options": [
+        "Klebsiella",
+        "E. coli",
+        "Group B Streptococcus",
+        "Listeria monocytogenes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "E. coli is a common cause in neonates in Nepal."
+    },
+    {
+      "question": "First-line management of anaphylaxis:",
+      "options": [
+        "IV antihistamines",
+        "IM epinephrine",
+        "IV steroids",
+        "Oxygen only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "IM epinephrine is lifesaving in anaphylaxis."
+    },
+    {
+      "question": "Most common cause of sudden cardiac death in adults:",
+      "options": [
+        "Myocardial infarction",
+        "Arrhythmia",
+        "Pulmonary embolism",
+        "Aortic dissection"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Acute MI is the most common cause of sudden cardiac death."
+    },
+    {
+      "question": "First-line drug for acute asthma attack:",
+      "options": [
+        "Inhaled SABA",
+        "Oral corticosteroids",
+        "Theophylline",
+        "Leukotriene antagonists"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Short-acting beta-agonists are first-line for relief."
+    },
+    {
+      "question": "Most common cause of iron deficiency anemia worldwide:",
+      "options": [
+        "Blood loss",
+        "Dietary deficiency",
+        "Genetic causes",
+        "Chronic disease"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Dietary deficiency of iron is the leading cause globally."
+    },
+    {
+      "question": "First-line treatment for community-acquired bacterial meningitis in adults:",
+      "options": [
+        "Ceftriaxone",
+        "Ampicillin",
+        "Vancomycin",
+        "Penicillin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ceftriaxone is standard first-line therapy."
+    },
+    {
+      "question": "Preferred treatment for mild persistent asthma in children:",
+      "options": [
+        "PRN SABA",
+        "Low-dose inhaled corticosteroid",
+        "Oral leukotriene antagonist",
+        "Theophylline"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Low-dose ICS is recommended for mild persistent asthma."
+    },
+    {
+      "question": "First-line antihypertensive in adults with diabetes and proteinuria:",
+      "options": [
+        "ACE inhibitor",
+        "Beta-blocker",
+        "Calcium channel blocker",
+        "Diuretic"
+      ],
+      "correctAnswer": 0,
+      "explanation": "ACE inhibitors protect kidneys in diabetes with proteinuria."
+    },
+    {
+      "question": "Most common organism causing hospital-acquired pneumonia:",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "Staphylococcus aureus",
+        "Klebsiella pneumoniae",
+        "E. coli"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Pseudomonas is a leading pathogen in HAP."
+    },
+    {
+      "question": "Preferred prophylaxis for deep vein thrombosis in hospitalized patients:",
+      "options": [
+        "Heparin",
+        "Aspirin",
+        "Warfarin",
+        "No prophylaxis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Low molecular weight heparin is recommended for DVT prophylaxis."
+    },
+    {
+      "question": "Most common cause of community-acquired urinary tract infection:",
+      "options": [
+        "E. coli",
+        "Klebsiella",
+        "Proteus",
+        "Staphylococcus saprophyticus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "E. coli causes the majority of community UTIs."
+    },
+    {
+      "question": "First-line treatment for peptic ulcer disease with H. pylori:",
+      "options": [
+        "Triple therapy (PPI + amoxicillin + clarithromycin)",
+        "H2 blocker alone",
+        "PPI alone",
+        "Bismuth only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Triple therapy eradicates H. pylori effectively."
+    },
+    {
+      "question": "Most common cause of lower GI bleeding in adults:",
+      "options": [
+        "Diverticulosis",
+        "Hemorrhoids",
+        "Colorectal cancer",
+        "Inflammatory bowel disease"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Diverticulosis is the leading cause of painless lower GI bleeding."
+    },
+    {
+      "question": "Preferred initial therapy for acute myocardial infarction:",
+      "options": [
+        "Aspirin + oxygen + morphine + nitroglycerin",
+        "Beta-blocker only",
+        "ACE inhibitor only",
+        "Statin only"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Standard initial therapy includes MONA (morphine, oxygen, nitrates, aspirin)."
+    },
+    {
+      "question": "Normal adult fasting blood glucose (WHO cutoff) is",
+      "options": [
+        "≥126 mg/dL",
+        "≥110 mg/dL",
+        "<100 mg/dL",
+        "100–125 mg/dL"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fasting <100 mg/dL is normal; 100–125 mg/dL is impaired fasting glucose."
+    },
+    {
+      "question": "First-line drug for uncomplicated malaria (Plasmodium falciparum) is",
+      "options": [
+        "Chloroquine",
+        "Artemisinin-based combination therapy",
+        "Doxycycline",
+        "Quinine alone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ACT is WHO-recommended first-line for P. falciparum."
+    },
+    {
+      "question": "Immediate management of anaphylaxis",
+      "options": [
+        "IV hydrocortisone",
+        "IM epinephrine",
+        "IV atropine",
+        "Oral antihistamine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "IM epinephrine is the first-line emergency treatment."
+    },
+    {
+      "question": "ORS Plan C is used for",
+      "options": [
+        "Mild dehydration",
+        "No dehydration",
+        "Severe dehydration",
+        "Prevention only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Plan C is for severe dehydration requiring IV fluid."
+    },
+    {
+      "question": "Most common cause of community-acquired pneumonia organism",
+      "options": [
+        "Pseudomonas aeruginosa",
+        "Streptococcus pneumoniae",
+        "Staphylococcus aureus",
+        "Klebsiella pneumoniae"
+      ],
+      "correctAnswer": 1,
+      "explanation": "S. pneumoniae is the commonest cause."
+    },
+    {
+      "question": "Most common cause of acute diarrhea in adults?",
+      "options": [
+        "Norovirus",
+        "Salmonella",
+        "E. coli",
+        "Rotavirus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "E. coli is a leading cause of acute diarrhea in adults."
+    },
+    {
+      "question": "First-line drug for hypertension in non-pregnant adults?",
+      "options": [
+        "ACE inhibitor",
+        "Beta-blocker",
+        "Thiazide diuretic",
+        "Calcium channel blocker"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Thiazide diuretics are commonly recommended as first-line antihypertensives."
+    },
+    {
+      "question": "Most common cause of viral hepatitis in Nepal?",
+      "options": [
+        "Hepatitis A",
+        "Hepatitis B",
+        "Hepatitis C",
+        "Hepatitis E"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hepatitis B is highly prevalent in Nepal."
+    },
+    {
+      "question": "Preferred first-line treatment for mild community-acquired pneumonia in children?",
+      "options": [
+        "Amoxicillin",
+        "Azithromycin",
+        "Ceftriaxone",
+        "Vancomycin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Amoxicillin is recommended for outpatient pediatric CAP."
+    },
+    {
+      "question": "Most common cause of acute pancreatitis?",
+      "options": [
+        "Gallstones",
+        "Hypercalcemia",
+        "Alcohol",
+        "Drugs"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gallstones are the leading cause globally."
+    },
+    {
+      "question": "First-line treatment for acute severe asthma?",
+      "options": [
+        "Oral steroids",
+        "Nebulized salbutamol + ipratropium",
+        "Oral theophylline",
+        "Montelukast"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Combined SABA + anticholinergic nebulization is recommended."
+    },
+    {
+      "question": "Most common cause of microcytic hypochromic anemia?",
+      "options": [
+        "Iron deficiency",
+        "Vitamin B12 deficiency",
+        "Folate deficiency",
+        "Hemolysis"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Iron deficiency is the leading cause."
+    },
+    {
+      "question": "Best diagnostic test for pulmonary embolism?",
+      "options": [
+        "D-dimer",
+        "Chest X-ray",
+        "CT pulmonary angiography",
+        "V/Q scan"
+      ],
+      "correctAnswer": 2,
+      "explanation": "CTPA is the gold standard in most settings."
+    },
+    {
+      "question": "Drug of choice for enteric fever?",
+      "options": [
+        "Azithromycin",
+        "Ciprofloxacin",
+        "Ceftriaxone",
+        "Amoxicillin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ceftriaxone is widely recommended due to resistance patterns."
+    },
+    {
+      "question": "Most specific marker for myocardial infarction?",
+      "options": [
+        "CK-MB",
+        "Troponin I/T",
+        "Myoglobin",
+        "LDH"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Troponins are highly sensitive and specific."
+    },
+    {
+      "question": "First-line treatment for generalized tonic-clonic seizures?",
+      "options": [
+        "Valproate",
+        "Carbamazepine",
+        "Levetiracetam",
+        "Diazepam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Valproate is effective for generalized seizures."
+    },
+    {
+      "question": "Most common cause of secondary hypertension?",
+      "options": [
+        "Renal artery stenosis",
+        "Cushing syndrome",
+        "Hyperthyroidism",
+        "Pheochromocytoma"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Renovascular disease is the most common cause."
+    },
+    {
+      "question": "Best test to confirm diabetes mellitus?",
+      "options": [
+        "Random blood sugar",
+        "HbA1c",
+        "Urine sugar",
+        "Fasting lipid profile"
+      ],
+      "correctAnswer": 1,
+      "explanation": "HbA1c ≥6.5% confirms diabetes."
+    },
+    {
+      "question": "Treatment of choice for an open fracture?",
+      "options": [
+        "Cast only",
+        "Immediate antibiotics + surgical debridement",
+        "Rest and analgesics",
+        "No intervention"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Open fractures require early antibiotics and debridement."
+    },
+    {
+      "question": "Most common cause of epistaxis in children?",
+      "options": [
+        "Hypertension",
+        "Trauma/picking",
+        "Coagulopathy",
+        "Tumor"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Trauma from nose picking is the commonest cause."
+    },
+    {
+      "question": "Immediate management of hypoglycemia in a conscious patient?",
+      "options": [
+        "IV dextrose",
+        "Glucagon IM",
+        "Oral glucose",
+        "Insulin"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Oral glucose is preferred if the patient is conscious."
+    },
+    {
+      "question": "Most common cause of upper GI bleed?",
+      "options": [
+        "Mallory-Weiss tear",
+        "Esophageal varices",
+        "Peptic ulcer disease",
+        "Gastric carcinoma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Peptic ulcer disease is a leading cause."
+    },
+    {
+      "question": "First-line therapy for DKA?",
+      "options": [
+        "Insulin IV + fluids",
+        "Oral hypoglycemics",
+        "IM glucagon",
+        "Beta-blockers"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Fluid resuscitation and insulin drip are essential."
+    },
+    {
+      "question": "Most common cause of hypothyroidism in iodine-sufficient regions?",
+      "options": [
+        "Iodine deficiency",
+        "Hashimoto thyroiditis",
+        "Post-surgical",
+        "Drug-induced"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Autoimmune thyroiditis (Hashimoto) is common in such areas."
+    },
+    {
+      "question": "Best initial investigation for suspected renal stones?",
+      "options": [
+        "CT KUB",
+        "IV pyelogram",
+        "Ultrasound abdomen",
+        "MRI"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ultrasound is recommended initially; CT is more definitive."
+    },
+    {
+      "question": "Drug of choice for typhoid carriers?",
+      "options": [
+        "Ampicillin",
+        "Ciprofloxacin",
+        "Ceftriaxone",
+        "Azithromycin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fluoroquinolones eradicate the carrier state."
+    },
+    {
+      "question": "Most common cause of acute kidney injury?",
+      "options": [
+        "Glomerulonephritis",
+        "Pre-renal azotemia",
+        "Post-renal obstruction",
+        "Pyelonephritis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pre-renal causes from dehydration are most common."
+    },
+    {
+      "question": "Classic ECG finding in hyperkalemia?",
+      "options": [
+        "ST elevation",
+        "Tall peaked T waves",
+        "Wide P waves",
+        "U waves"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tall peaked T waves are characteristic."
+    },
+    {
+      "question": "Drug of choice for hypertension with chronic kidney disease?",
+      "options": [
+        "Beta-blocker",
+        "ACE inhibitor",
+        "Calcium channel blocker",
+        "Thiazide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "ACE inhibitors provide renal protection."
+    },
+    {
+      "question": "Most common cause of stroke?",
+      "options": [
+        "Hemorrhage",
+        "Ischemia",
+        "Tumor",
+        "Infection"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ischemic strokes account for the majority of cases."
+    },
+    {
+      "question": "First-line treatment for bacterial vaginosis?",
+      "options": [
+        "Metronidazole",
+        "Doxycycline",
+        "Ceftriaxone",
+        "Fluconazole"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Metronidazole is recommended orally or intravaginally."
+    },
+    {
+      "question": "Best test for acute pancreatitis diagnosis?",
+      "options": [
+        "Serum amylase",
+        "Serum lipase",
+        "CT scan",
+        "MRI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Lipase is more specific than amylase."
+    },
+    {
+      "question": "Most common congenital heart disease?",
+      "options": [
+        "VSD",
+        "ASD",
+        "TOF",
+        "PDA"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ventricular septal defect is the most common congenital heart defect."
+    },
+    {
+      "question": "Initial management for hyperkalemia with ECG changes?",
+      "options": [
+        "Kayexalate",
+        "IV calcium gluconate",
+        "Insulin only",
+        "Dialysis only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "IV calcium stabilizes cardiac membranes."
+    },
+    {
+      "question": "Most common cause of meningitis in adults?",
+      "options": [
+        "Streptococcus pneumoniae",
+        "Neisseria meningitidis",
+        "H. influenzae",
+        "Listeria"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Streptococcus pneumoniae is the leading cause of adult meningitis."
+    },
+    {
+      "question": "Best test for suspected pulmonary TB?",
+      "options": [
+        "Chest X-ray",
+        "Sputum AFB smear",
+        "ESR",
+        "CRP"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sputum microscopy for acid-fast bacilli is essential for diagnosis."
+    },
+    {
+      "question": "Drug of choice for anaphylaxis?",
+      "options": [
+        "Hydrocortisone",
+        "Adrenaline IM",
+        "Diphenhydramine",
+        "IV fluids only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intramuscular adrenaline is lifesaving in anaphylaxis."
+    },
+    {
+      "question": "Most common cause of diarrhea worldwide?",
+      "options": [
+        "Rotavirus",
+        "Cholera",
+        "E. coli",
+        "Salmonella"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rotavirus is a common cause of diarrheal illness, especially in children."
+    },
+    {
+      "question": "Best imaging for suspected appendicitis?",
+      "options": [
+        "CT abdomen",
+        "MRI",
+        "Ultrasound",
+        "X-ray"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ultrasound is preferred initially, particularly in younger patients."
+    },
+    {
+      "question": "Most common cause of lower GI bleeding?",
+      "options": [
+        "Hemorrhoids",
+        "Diverticulosis",
+        "Polyps",
+        "Cancer"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hemorrhoids frequently cause bright red bleeding per rectum."
+    },
+    {
+      "question": "First-line treatment for hypertension?",
+      "options": [
+        "Thiazide diuretic",
+        "Beta-blocker",
+        "ACE inhibitor",
+        "ARB"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Thiazide diuretics are commonly recommended as initial therapy."
+    },
+    {
+      "question": "Most common cause of chronic cough?",
+      "options": [
+        "TB",
+        "Asthma",
+        "GERD",
+        "Smoking"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Chronic smoking is the leading cause of persistent cough."
+    },
+    {
+      "question": "Best initial test for suspected DVT?",
+      "options": [
+        "D-dimer",
+        "Venous Doppler ultrasound",
+        "CT venogram",
+        "MRI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Venous Doppler ultrasound is the diagnostic test of choice."
+    },
+    {
+      "question": "Treatment of choice for severe malaria?",
+      "options": [
+        "Chloroquine",
+        "Artesunate",
+        "Quinine",
+        "Doxycycline"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Intravenous artesunate is recommended for severe malaria."
+    },
+    {
+      "question": "Most common cause of neonatal jaundice?",
+      "options": [
+        "Biliary atresia",
+        "Physiological jaundice",
+        "Sepsis",
+        "Hemolysis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Physiological jaundice occurs in the majority of newborns."
+    },
+    {
+      "question": "Drug causing gingival hyperplasia?",
+      "options": [
+        "Phenytoin",
+        "Valproate",
+        "Carbamazepine",
+        "Levetiracetam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Phenytoin is classically associated with gingival hyperplasia."
+    },
+    {
+      "question": "Best test for assessing liver cirrhosis severity?",
+      "options": [
+        "AST",
+        "ALT",
+        "Child-Pugh score",
+        "Bilirubin alone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Child-Pugh score stratifies cirrhosis severity."
+    },
+    {
+      "question": "Preferred treatment for hypothyroidism?",
+      "options": [
+        "Liothyronine",
+        "Levothyroxine",
+        "Methimazole",
+        "Iodine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Levothyroxine (T4) is the standard replacement therapy."
+    },
+    {
+      "question": "Most common cause of hematuria in young adults?",
+      "options": [
+        "UTI",
+        "Stones",
+        "Tumor",
+        "Trauma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Renal stones frequently cause hematuria in young adults."
+    },
+    {
+      "question": "First-line investigation for infertility?",
+      "options": [
+        "Semen analysis",
+        "Hysterosalpingogram",
+        "Ultrasound",
+        "Progesterone test"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Semen analysis is performed early in the infertility workup."
+    },
+    {
+      "question": "Most common cause of hypercalcemia?",
+      "options": [
+        "Malignancy",
+        "Hyperparathyroidism",
+        "Vitamin D toxicity",
+        "Sarcoidosis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Primary hyperparathyroidism is the leading cause in outpatients."
+    },
+    {
+      "question": "ECG finding of pericarditis?",
+      "options": [
+        "ST elevation in all leads",
+        "Peaked T waves",
+        "U waves",
+        "Delta waves"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Diffuse ST elevation is characteristic of acute pericarditis."
+    },
+    {
+      "question": "Treatment for organophosphate poisoning?",
+      "options": [
+        "Atropine + pralidoxime",
+        "Naloxone",
+        "Flumazenil",
+        "Hydrocortisone"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Atropine reverses muscarinic effects; pralidoxime reactivates acetylcholinesterase."
+    },
+    {
+      "question": "Most common cause of pneumonia in the elderly?",
+      "options": [
+        "Viral",
+        "Streptococcus pneumoniae",
+        "Klebsiella",
+        "Mycoplasma"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pneumococcus remains the most common cause in older adults."
+    },
+    {
+      "question": "Most common cause of acute gastroenteritis in adults?",
+      "options": [
+        "Norovirus",
+        "Rotavirus",
+        "Salmonella",
+        "Shigella"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Norovirus is the leading cause in adults."
+    },
+    {
+      "question": "Drug of choice for cluster headache?",
+      "options": [
+        "Ibuprofen",
+        "High-flow oxygen",
+        "Sumatriptan oral",
+        "Paracetamol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "High-flow oxygen provides rapid relief of cluster headache."
+    },
+    {
+      "question": "Most common cause of hypernatremia?",
+      "options": [
+        "Excess sodium intake",
+        "Dehydration",
+        "SIADH",
+        "Renal failure"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Water loss and dehydration are usual mechanisms."
+    },
+    {
+      "question": "Best test for acute cholecystitis?",
+      "options": [
+        "CT scan",
+        "Ultrasound abdomen",
+        "MRI",
+        "PET scan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ultrasound shows gallstones and gallbladder inflammation."
+    },
+    {
+      "question": "Treatment of choice for syphilis?",
+      "options": [
+        "Azithromycin",
+        "Penicillin G",
+        "Ceftriaxone",
+        "Doxycycline"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Penicillin remains the gold standard therapy."
+    },
+    {
+      "question": "Most common cause of upper limb DVT?",
+      "options": [
+        "Trauma",
+        "Catheter-related thrombosis",
+        "Infection",
+        "Malignancy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Indwelling catheters are major risk factors for upper limb DVT."
+    },
+    {
+      "question": "Best initial therapy for gout attack?",
+      "options": [
+        "Allopurinol",
+        "NSAIDs",
+        "Probenecid",
+        "Colchicine only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NSAIDs are first-line for acute gouty arthritis."
+    },
+    {
+      "question": "Complication of long-term steroid use?",
+      "options": [
+        "Hypercalcemia",
+        "Osteoporosis",
+        "Weight loss",
+        "Hypoglycemia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chronic corticosteroid use weakens bone density."
+    },
+    {
+      "question": "ECG sign of hypokalemia?",
+      "options": [
+        "Tall T waves",
+        "U waves",
+        "ST elevation",
+        "PR shortening"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Prominent U waves are classic for hypokalemia."
+    },
+    {
+      "question": "Drug of choice for MRSA?",
+      "options": [
+        "Amoxicillin",
+        "Vancomycin",
+        "Cefixime",
+        "Azithromycin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vancomycin is standard therapy for MRSA infections."
+    },
+    {
+      "question": "Most common cause of syncope?",
+      "options": [
+        "Arrhythmia",
+        "Vasovagal episodes",
+        "Stroke",
+        "Hypertension"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vasovagal syncope is the most frequent cause."
+    },
+    {
+      "question": "Treatment of choice for P. vivax malaria?",
+      "options": [
+        "Chloroquine + primaquine",
+        "Artesunate",
+        "Doxycycline only",
+        "Quinine"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Primaquine eradicates hypnozoites to prevent relapse."
+    },
+    {
+      "question": "Best diagnostic test for acute appendicitis?",
+      "options": [
+        "MRI",
+        "CT scan",
+        "Ultrasound",
+        "X-ray"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CT scan offers the highest diagnostic accuracy."
+    },
+    {
+      "question": "Most common cause of secondary hyperparathyroidism?",
+      "options": [
+        "Chronic kidney disease",
+        "Malignancy",
+        "Vitamin D toxicity",
+        "Hypothyroidism"
+      ],
+      "correctAnswer": 0,
+      "explanation": "CKD leads to hypocalcemia and compensatory PTH elevation."
+    },
+    {
+      "question": "Drug used in ALS to slow progression?",
+      "options": [
+        "Riluzole",
+        "Levodopa",
+        "Carbamazepine",
+        "Diazepam"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Riluzole modestly prolongs survival in ALS."
+    },
+    {
+      "question": "Most common cause of macrocytic anemia?",
+      "options": [
+        "Vitamin B12 deficiency",
+        "Folate deficiency",
+        "Hypothyroidism",
+        "Alcoholism"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Alcoholism is a highly prevalent cause of macrocytosis."
+    },
+    {
+      "question": "Best treatment for ascites in cirrhosis?",
+      "options": [
+        "Spironolactone",
+        "Furosemide only",
+        "Albumin only",
+        "NSAIDs"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Aldosterone antagonists such as spironolactone are preferred."
+    },
+    {
+      "question": "Most common cause of chronic liver disease worldwide?",
+      "options": [
+        "NASH",
+        "Alcohol",
+        "Hepatitis B",
+        "Hepatitis C"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hepatitis B remains a leading global cause."
+    },
+    {
+      "question": "First-line test in head injury?",
+      "options": [
+        "MRI",
+        "CT scan without contrast",
+        "X-ray",
+        "Ultrasound"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Non-contrast CT rapidly detects intracranial bleeding."
+    },
+    {
+      "question": "Drug causing lactic acidosis?",
+      "options": [
+        "Metformin",
+        "Aspirin",
+        "Omeprazole",
+        "Ciprofloxacin"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Metformin can rarely precipitate lactic acidosis."
+    },
+    {
+      "question": "Most common cause of chronic diarrhea?",
+      "options": [
+        "IBS",
+        "Infection",
+        "Cancer",
+        "Hyperthyroidism"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Irritable bowel syndrome frequently presents with chronic diarrhea."
+    },
+    {
+      "question": "Drug of choice for hypertension in pregnancy?",
+      "options": [
+        "ACE inhibitors",
+        "Methyldopa",
+        "Losartan",
+        "Amlodipine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Methyldopa has the best safety profile in pregnancy."
+    },
+    {
+      "question": "Screening test for cervical cancer?",
+      "options": [
+        "HPV DNA test",
+        "Pap smear",
+        "Ultrasound",
+        "MRI"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pap smear is the standard screening test."
+    },
+    {
+      "question": "Best test for DVT in pregnancy?",
+      "options": [
+        "CT venogram",
+        "MRI",
+        "Doppler ultrasound",
+        "D-dimer only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Compression Doppler ultrasound avoids radiation exposure."
+    },
+    {
+      "question": "Drug used for motion sickness?",
+      "options": [
+        "Metoclopramide",
+        "Ondansetron",
+        "Cyclizine",
+        "Omeprazole"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Antihistamines like cyclizine prevent motion sickness."
+    },
+    {
+      "question": "Most common cause of acute urinary retention in men?",
+      "options": [
+        "Stones",
+        "Benign prostatic hyperplasia",
+        "Cancer",
+        "Infection"
+      ],
+      "correctAnswer": 1,
+      "explanation": "BPH commonly obstructs urinary outflow in older men."
+    },
+    {
+      "question": "First-line treatment for bacterial meningitis?",
+      "options": [
+        "Ceftriaxone + vancomycin",
+        "Amoxicillin",
+        "Ciprofloxacin",
+        "Metronidazole"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Empiric therapy requires broad coverage with ceftriaxone and vancomycin."
+    },
+    {
+      "question": "Most common cause of anemia of chronic disease?",
+      "options": [
+        "Iron loss",
+        "Inflammation",
+        "Hemolysis",
+        "Malabsorption"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cytokine-mediated inflammation impairs iron utilization."
+    },
+    {
+      "question": "Test used for pulmonary embolism diagnosis?",
+      "options": [
+        "Chest X-ray",
+        "CT pulmonary angiography",
+        "Ultrasound",
+        "PET scan"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CT pulmonary angiography visualizes emboli directly."
+    },
+    {
+      "question": "Drug of choice for pinworm infection?",
+      "options": [
+        "Mebendazole",
+        "Albendazole",
+        "Praziquantel",
+        "Metronidazole"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Albendazole is effective and well tolerated."
+    },
+    {
+      "question": "Most common cause of postpartum hemorrhage?",
+      "options": [
+        "Retained placenta",
+        "Uterine atony",
+        "Coagulopathy",
+        "Genital lacerations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Uterine atony is the leading cause of postpartum hemorrhage."
+    },
+    {
+      "question": "Treatment of choice for iron deficiency anemia?",
+      "options": [
+        "IV iron only",
+        "Oral ferrous sulfate",
+        "Blood transfusion",
+        "Vitamin B12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Oral ferrous sulfate is standard therapy."
+    },
+    {
+      "question": "Best test for pancreatitis severity?",
+      "options": [
+        "Serum amylase",
+        "C-reactive protein",
+        "LFTs",
+        "CBC"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CRP correlates with the inflammatory burden and severity."
+    },
+    {
+      "question": "Most common bacterial STI?",
+      "options": [
+        "Syphilis",
+        "Gonorrhea",
+        "Chlamydia",
+        "Trichomonas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Chlamydia trachomatis is the most prevalent bacterial STI."
+    },
+    {
+      "question": "Best test for Cushing syndrome?",
+      "options": [
+        "Serum cortisol random",
+        "Dexamethasone suppression test",
+        "Insulin tolerance test",
+        "ACTH stimulation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Failure to suppress cortisol on low-dose dexamethasone confirms the diagnosis."
+    },
+    {
+      "question": "Drug of choice for acute dystonia?",
+      "options": [
+        "Haloperidol",
+        "Benztropine",
+        "Diazepam",
+        "Risperidone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Anticholinergics like benztropine rapidly reverse dystonia."
+    },
+    {
+      "question": "Most common cause of blood in stool in adults?",
+      "options": [
+        "Cancer",
+        "Hemorrhoids",
+        "Infection",
+        "Polyps"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Hemorrhoids commonly cause bright red rectal bleeding."
+    },
+    {
+      "question": "Treatment for serotonin syndrome?",
+      "options": [
+        "Haloperidol",
+        "Cyproheptadine",
+        "Diazepam",
+        "Metoclopramide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cyproheptadine is a serotonin antagonist used in management."
+    },
+    {
+      "question": "Most common cause of pleural effusion?",
+      "options": [
+        "Tuberculosis",
+        "Pneumonia",
+        "Heart failure",
+        "Cancer"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Congestive heart failure is the leading cause of pleural effusions."
+    },
+    {
+      "question": "Drug of choice for UTI in pregnancy?",
+      "options": [
+        "Ciprofloxacin",
+        "Nitrofurantoin",
+        "Levofloxacin",
+        "Doxycycline"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nitrofurantoin is safe for treating UTIs during pregnancy."
+    }
+  ]
+}

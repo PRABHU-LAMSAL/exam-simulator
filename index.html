@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>Nepal Medical License Examination Simulator</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <!-- Header with Timer and Progress -->
+        <header class="exam-header">
+            <div class="header-content">
+                <h1>Nepal Medical License Examination</h1>
+                <div class="timer-section">
+                    <div class="timer" id="timer">45:00</div>
+                    <div class="progress-info">
+                        <span>Total Questions: <span id="total-questions">100</span></span>
+                        <span class="answered-count">Answered: <span id="answered-count">0</span></span>
+                    </div>
+                </div>
+            </div>
+        </header>
+
+        <!-- Main Content Area -->
+        <main class="exam-content">
+            <!-- All Questions Container -->
+            <section class="questions-container" id="questions-container">
+                <!-- All questions will be dynamically generated here -->
+            </section>
+
+            <!-- Submit Section -->
+            <section class="submit-section">
+                <button class="nav-btn submit-btn" id="submit-btn">Submit Exam</button>
+            </section>
+        </main>
+    </div>
+
+    <!-- Start Modal -->
+    <div class="modal" id="start-modal">
+        <div class="modal-content">
+            <h2>Nepal Medical License Examination Simulator</h2>
+            <p>You have 45 minutes to complete 100 randomly selected questions.</p>
+            <p>Good luck!</p>
+            <button class="btn-primary" id="start-exam-btn">Start Exam</button>
+        </div>
+    </div>
+
+    <!-- Results Modal -->
+    <div class="modal" id="results-modal" style="display: none;">
+        <div class="modal-content results-modal-content">
+            <h2>Exam Results</h2>
+            <div class="results-stats">
+                <div class="stat-item">
+                    <span class="stat-label">Total Questions:</span>
+                    <span class="stat-value" id="result-total">100</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Answered:</span>
+                    <span class="stat-value" id="result-answered">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Correct:</span>
+                    <span class="stat-value" id="result-correct">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Incorrect:</span>
+                    <span class="stat-value" id="result-incorrect">0</span>
+                </div>
+                <div class="stat-item">
+                    <span class="stat-label">Score:</span>
+                    <span class="stat-value" id="result-score">0%</span>
+                </div>
+            </div>
+            <div class="results-actions">
+                <button class="btn-primary" id="view-answers-btn">View Answers</button>
+                <button class="btn-primary" id="restart-exam-btn">Restart Exam</button>
+            </div>
+            
+            <!-- Answers Review Section -->
+            <div class="answers-review" id="answers-review" style="display: none;">
+                <h3>Question Review</h3>
+                <div class="answers-container" id="answers-container">
+                    <!-- Answers will be dynamically generated here -->
+                </div>
+                <button class="btn-primary" id="close-answers-btn">Close Review</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>
+
